@@ -28,5 +28,7 @@ Check out my project journey and original post:
 https://lnkd.in/p/gyScPFyf
 
 ---
+Project preview:
+Techfest.png
 
 Made with ❤️ while learning web development.
